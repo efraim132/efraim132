@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I’m Efraim Grebnev
 
-<!--
-**efraim132/efraim132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Navy veteran turned engineer & software developer
+ Passionate about coding, electronics, and automation
+ Ultimate goal: Software Engineer at Microsoft
+ Based in Seattle, WA
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I Do
+
+**Software Development** – Python, C#, Java, TypeScript, Flask, React
+**Systems Engineering** – EOOW-qualified, propulsion & power systems expertise
+**Electronics** – PCB design, embedded systems, IoT projects
+**Web Projects** – Flask + React + Azure deployments
+
+---
+
+## 📫 Connect With Me
+https://efraim.us
