@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Efraim Grebnev
+# Hi, I’m Efraim Grebnev
 
  Navy veteran turned engineer & software developer
  Passionate about coding, electronics, and automation
@@ -7,14 +7,13 @@
 
 ---
 
-## 🔧 What I Do
+## What I Do
 
 **Software Development** – Python, C#, Java, TypeScript, Flask, React
-**Systems Engineering** – EOOW-qualified, propulsion & power systems expertise
 **Electronics** – PCB design, embedded systems, IoT projects
 **Web Projects** – Flask + React + Azure deployments
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 https://efraim.us
